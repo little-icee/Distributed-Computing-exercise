@@ -1,1 +1,4 @@
-# Distributed-Computing-exercise
+# 分布式计算练习
+需要先在windows上按照教程安装hadoop，MapReduce框架Spark
+按照命令文件操作运行代码
+适合初学者
